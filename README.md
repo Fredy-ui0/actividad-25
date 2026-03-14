@@ -1,0 +1,1 @@
+el sistema 1 funciona enseñandole al usuario un menu el usuario escoje  una opcion como la de registrarse la que pide usuario correo edad y tipo de cliente si se cumple con todo lo que pide se guarda su usuario y podria buscar usuario tambien enseñar los usuarios registrado y salir
