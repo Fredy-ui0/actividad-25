@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\Sistema 3 cajero automatico\Sistema 3 cajero automatico\bin\Debug\net8.0\Sistema 3 cajero automatico.exe
+C:\Users\ACER\Desktop\Sistema 3 cajero automatico\Sistema 3 cajero automatico\bin\Debug\net8.0\Sistema 3 cajero automatico.deps.json
+C:\Users\ACER\Desktop\Sistema 3 cajero automatico\Sistema 3 cajero automatico\bin\Debug\net8.0\Sistema 3 cajero automatico.runtimeconfig.json
+C:\Users\ACER\Desktop\Sistema 3 cajero automatico\Sistema 3 cajero automatico\bin\Debug\net8.0\Sistema 3 cajero automatico.dll
+C:\Users\ACER\Desktop\Sistema 3 cajero automatico\Sistema 3 cajero automatico\bin\Debug\net8.0\Sistema 3 cajero automatico.pdb
+C:\Users\ACER\Desktop\Sistema 3 cajero automatico\Sistema 3 cajero automatico\obj\Debug\net8.0\Sistema 3 cajero automatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Sistema 3 cajero automatico\Sistema 3 cajero automatico\obj\Debug\net8.0\Sistema 3 cajero automatico.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Sistema 3 cajero automatico\Sistema 3 cajero automatico\obj\Debug\net8.0\Sistema 3 cajero automatico.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Sistema 3 cajero automatico\Sistema 3 cajero automatico\obj\Debug\net8.0\Sistema 3 cajero automatico.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Sistema 3 cajero automatico\Sistema 3 cajero automatico\obj\Debug\net8.0\Sistema 3 cajero automatico.dll
+C:\Users\ACER\Desktop\Sistema 3 cajero automatico\Sistema 3 cajero automatico\obj\Debug\net8.0\refint\Sistema 3 cajero automatico.dll
+C:\Users\ACER\Desktop\Sistema 3 cajero automatico\Sistema 3 cajero automatico\obj\Debug\net8.0\Sistema 3 cajero automatico.pdb
+C:\Users\ACER\Desktop\Sistema 3 cajero automatico\Sistema 3 cajero automatico\obj\Debug\net8.0\Sistema 3 cajero automatico.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Sistema 3 cajero automatico\Sistema 3 cajero automatico\obj\Debug\net8.0\ref\Sistema 3 cajero automatico.dll
